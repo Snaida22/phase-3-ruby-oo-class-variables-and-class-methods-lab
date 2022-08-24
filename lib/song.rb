@@ -35,4 +35,3 @@ class Song
     @@artists.tally
   end
 end    
-first = Song.new("Love Yours", "J Cole", "HIP-HOP")
